@@ -5,7 +5,7 @@
 @font-face {
   font-family: Montserrat;
   src: url("/assets/fonts/montserrat/Montserrat-Light.otf");
-  font-weight: 300;
+  font-weight: 100;
   font-style: normal;
 }
 
@@ -26,7 +26,7 @@
 @font-face {
   font-family: Roboto;
   src: url("/assets/fonts/roboto/Roboto-Regular.ttf");
-  font-weight: normal;
+  font-weight: 100;
   font-style: normal;
 }
 

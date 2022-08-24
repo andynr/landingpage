@@ -1188,21 +1188,15 @@ video {
 
 @font-face {
   font-family: Montserrat;
-
   src: url("/assets/fonts/montserrat/Montserrat-Light.otf");
-
-  font-weight: 300;
-
   font-style: normal;
+  font-weight: 100;
 }
 
 @font-face {
   font-family: MontserratBold;
-
   src: url("/assets/fonts/montserrat/Montserrat-Bold.otf");
-
-  font-weight: 300;
-
+  font-weight: bold;
   font-style: normal;
 }
 
@@ -1211,7 +1205,7 @@ video {
 
   src: url("/assets/fonts/montserrat/Montserrat-Black.otf");
 
-  font-weight: 300;
+  font-weight: 100;
 
   font-style: normal;
 }
