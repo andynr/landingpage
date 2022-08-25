@@ -25,4 +25,4 @@ From the installation active directory run command sequence below:
     docker-compose up -d
 ```
 
-Now open [localhost](http://localhost:8003/) to view our website mockup
+Now open [localhost:8003](http://localhost:8003/) to view our website mockup
