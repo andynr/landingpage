@@ -1,5 +1,9 @@
 {
-    "require": {
-        "twig/twig": "^3.2"
-    }
+  "require": {
+    "twig/twig": "^3.2"
+  },
+  "post-install-cmd": [
+    "php artisan clear-compiled",
+    "chmod -R 777 public/"
+  ]
 }
